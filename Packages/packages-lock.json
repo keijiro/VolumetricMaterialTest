@@ -103,7 +103,7 @@
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.shadergraphassets": {
-      "version": "2.5.1",
+      "version": "2.5.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
