@@ -410,7 +410,7 @@ MonoBehaviour:
     textureOffset: {x: 0, y: 0, z: 0}
     falloffMode: 0
     maskMode: 1
-    materialMask: {fileID: 2100000, guid: 209c7c0106f28cb438b759b74d8803e4, type: 2}
+    materialMask: {fileID: -876546973899608171, guid: 0c7972ee4e249594290e34909d6ef694, type: 3}
   m_Version: 2
 --- !u!1 &957730016
 GameObject:
