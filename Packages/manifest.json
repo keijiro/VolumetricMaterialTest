@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.render-pipelines.high-definition": "14.0.4",
+    "com.unity.render-pipelines.high-definition": "14.0.8",
     "jp.keijiro.danish-statues": "1.0.0",
     "jp.keijiro.klak.motion": "1.0.2",
     "jp.keijiro.metatex": "1.0.4",
